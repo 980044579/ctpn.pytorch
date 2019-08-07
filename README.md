@@ -5,7 +5,7 @@ CTPN.pytorch
 ****
 |Author|尹天舒|
 |---|---
-|E-mail|yintianshu_sx@qiyi.com
+|E-mail|yintianshu1994@163.com
 ****
 
 ### Usage
