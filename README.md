@@ -11,7 +11,9 @@ CTPN.pytorch
 ### Usage
 
 '''bash
+
     python ctpn_train
 '''
+
 
 
